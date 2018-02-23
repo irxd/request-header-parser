@@ -1,2 +1,4 @@
-# request-header-parser
-FreeCodeCamp Challenge: Request Header Parser Microservice
+Usage
+------------
+
+- https://windy-elbow.glitch.me/api/whoami
