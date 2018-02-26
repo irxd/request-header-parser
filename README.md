@@ -1,4 +1,4 @@
 Usage
 ------------
 
-- https://windy-elbow.glitch.me/api/whoami
+- https://who.glitch.me/api/whoami
